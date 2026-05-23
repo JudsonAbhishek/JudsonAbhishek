@@ -25,7 +25,6 @@
 </div>
 
 ---
-
 <h2 align="center">💫 About Me</h2>
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -34,27 +33,33 @@
 Name: Judson Abhishek Mupparapu
 
 Education:
-  - B.Tech CSE with AI-ML Minor
+  - B.Tech in Computer Science Engineering
+  - Minor Specialization in AI & ML
   - Vishnu Institute of Technology
 
-Interests:
-  - Flutter Development
-  - Full Stack Development
-  - Artificial Intelligence
-  - NLP & Machine Learning
+Professional Interests:
+  - Flutter Application Development
+  - Full Stack Web Development
+  - Artificial Intelligence & NLP
+  - Scalable System Design
+
+Core Strengths:
+  - Solved 500+ DSA Problems
+  - Strong Problem Solving Skills
+  - Team Mentoring & Leadership
+  - Real-World Project Development
 
 Achievements:
-  - Solved 500+ DSA Problems
-  - Mentored 100+ Students
+  - Mentored 100+ Students in Mathematics
   - Two-Time Chess Competition Winner
+  - Built Multiple Full Stack & Flutter Applications
 
 Currently Exploring:
-  - Scalable Backend Systems
-  - AI/ML Applications
-  - Real-World Flutter Apps
+  - Advanced AI/ML Applications
+  - NLP-Based Intelligent Systems
+  - Scalable Backend Architectures
+  - Cross-Platform Mobile Development
 ```
-
-<br><br>
 
 ---
 

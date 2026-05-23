@@ -1,194 +1,221 @@
 <div align="center">
 
-# Judson Abhishek Mupparapu
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Judson%20Abhishek%20Mupparapu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20•%20AI/ML%20Enthusiast%20•%20Full%20Stack%20Developer&descAlignY=60&descSize=18" />
 
-### Flutter • Full Stack • AI/ML • NLP
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Flutter+Developer;AI%2FML+Enthusiast;Full+Stack+Developer;500%2B+DSA+Problems+Solved;Building+Scalable+Applications;Passionate+About+AI+and+NLP" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;AI%2FML+Enthusiast;Full+Stack+Developer;500%2B+DSA+Problems+Solved;Building+Real+World+Applications" />
+<br><br>
 
-<br>
+<a href="https://www.linkedin.com/in/m-judson-abhishek-5874782b5/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-judson-abhishek-5874782b5/)
-[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:judsonabhishek4@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JudsonAbhishek)
+<a href="mailto:judsonabhishek4@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<br>
+<a href="https://github.com/JudsonAbhishek">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-![](https://komarev.com/ghpvc/?username=JudsonAbhishek&style=for-the-badge&color=blue)
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=JudsonAbhishek&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# whoami
+<h2 align="center">💫 About Me</h2>
+
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+```yaml
+Name: Judson Abhishek Mupparapu
+
+Education:
+  - B.Tech CSE with AI-ML Minor
+  - Vishnu Institute of Technology
+
+Interests:
+  - Flutter Development
+  - Full Stack Development
+  - Artificial Intelligence
+  - NLP & Machine Learning
+
+Achievements:
+  - Solved 500+ DSA Problems
+  - Mentored 100+ Students
+  - Two-Time Chess Competition Winner
+
+Currently Exploring:
+  - Scalable Backend Systems
+  - AI/ML Applications
+  - Real-World Flutter Apps
+```
+
+<br><br>
+
+---
+
+<h2 align="center">⚡ Tech Stack</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,flutter,firebase,nodejs,express,html,css,git,github,vscode,mysql" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/NLP-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+
+</div>
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+<h3 align="center">🩸 Hemohelpers</h3>
+
+<p align="center">
+Blood Donation Portal with emergency broadcasting system and donor-receiver management.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🍲 Spoonacular Recipe Search</h3>
+
+<p align="center">
+Recipe search platform with nutrition filtering and real-time API integration.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/API-FF6F00?style=flat-square"/>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<h3 align="center">🛠️ Helperhive</h3>
+
+<p align="center">
+Flutter-based marketplace connecting users with local service professionals.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">😊 Sentiment Analysis</h3>
+
+<p align="center">
+Machine Learning based real-time sentiment analysis web application.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/NLP-0A66C2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<h2 align="center">📈 GitHub Analytics</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JudsonAbhishek&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JudsonAbhishek&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JudsonAbhishek&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<h2 align="center">🏆 Achievements</h2>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=JudsonAbhishek&theme=tokyonight&row=1&column=6"/>
+
+</div>
+
+<br>
 
 ```bash
-❯ judson --profile
-
-🎓 B.Tech CSE Student with AI-ML Minor
-🏫 Vishnu Institute of Technology
-💡 Flutter + Firebase + AI/ML Enthusiast
+🏆 Mentored 100+ Students
 🧠 Solved 500+ DSA Problems
-👨‍🏫 Mentored 100+ Students
-♟️ Chess Mentor & Two-Time Winner
-🚀 Passionate about building scalable applications
+♟️ Two-Time Chess Competition Winner
+🎓 CGPA: 8.78
+🚀 Built Multiple Real-World Projects
 ```
 
 ---
 
-# tech-stack --list-all
-
-```bash
-> Loading modules... ████████████████████ 100%
-
-── Languages ──
-
-Python SQL
-
-── Web Development ──
-
-HTML5 CSS3 Node.js Express.js
-
-── App Development ──
-
-Flutter Firebase
-
-── AI · ML · Data Science ──
-
-NLP Pandas NumPy scikit-learn Matplotlib
-
-── Tools ──
-
-Git GitHub VS Code Tableau
-```
-
----
-
-# projects --featured
-
-```bash
-[1/4] 🩸 Hemohelpers
-
-Blood donation portal with emergency announcement system
-and admin-user management platform.
-
-⚡ Stack:
-Node.js · Express.js · Firebase
-
-────────────────────────────────────────
-
-[2/4] 🍲 Spoonacular Recipe Search
-
-Recipe discovery platform using Spoonacular API
-with nutrition filtering and real-time recipe search.
-
-⚡ Stack:
-Node.js · Express.js · Firebase
-
-────────────────────────────────────────
-
-[3/4] 🛠️ Helperhive
-
-Flutter-based service marketplace connecting
-users and local professionals.
-
-⚡ Stack:
-Flutter · Firebase
-
-────────────────────────────────────────
-
-[4/4] 😊 Sentiment Analysis
-
-Web-based sentiment analysis prototype using
-Natural Language Processing and Machine Learning.
-
-⚡ Stack:
-NLP · Machine Learning
-```
-
----
-
-# internships --experience
-
-```bash
-[1/2] 🤖 Rinex Internship
-
-✔ Applied Machine Learning algorithms
-✔ Worked on real-world datasets
-✔ Improved model accuracy using evaluation techniques
-
-────────────────────────────────────────
-
-[2/2] 📱 Android Developer Virtual Internship
-
-✔ Built Android-based projects
-✔ Strengthened app development fundamentals
-✔ Hands-on practical implementation
-```
-
----
-
-# achievements --all
-
-```bash
-🏆  Peer Tutoring Mentor            → Mentored 100+ students
-♟️  Chess Competitions              → Two-Time Winner
-🧠  DSA Practice                    → 500+ Problems Solved
-🎓  CGPA                            → 8.78
-🚀  AI/ML Enthusiast                → Active Learner
-📱  Flutter Projects                → Multiple Real-World Apps
-```
-
----
-
-# certifications --verified
-
-```bash
-✔ Data Analytics with Python
-✔ Business Analytics Text Mining using Python
-✔ Introduction to Web Development — edX
-✔ Fundamentals of Artificial Intelligence — RINEX
-```
-
----
-
-# github-stats --visualize
+<h2 align="center">📜 Certifications</h2>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JudsonAbhishek&show_icons=true&theme=tokyonight" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JudsonAbhishek&layout=compact&theme=tokyonight" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=JudsonAbhishek&theme=tokyonight" />
+✔ Data Analytics with Python  
+✔ Business Analytics Text Mining using Python  
+✔ Introduction to Web Development — edX  
+✔ Fundamentals of Artificial Intelligence — RINEX  
 
 </div>
 
 ---
 
-# trophies --display
+<h2 align="center">🤝 Open To</h2>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=JudsonAbhishek&theme=onedark&row=1&column=6" />
+✨ Flutter Development Opportunities  
+✨ AI/ML & NLP Collaborations  
+✨ Full Stack Development Projects  
+✨ Internship & Full-Time Roles  
 
 </div>
 
 ---
 
-# connect --open-to-work
-
-```bash
-✦ Open to Flutter Development opportunities
-✦ Interested in AI/ML and NLP projects
-✦ Looking to collaborate on impactful applications
-✦ Available for internships and full-time opportunities
-```
-
----
-
 <div align="center">
 
-### ✨ Code • Learn • Build • Repeat ✨
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
 </div>

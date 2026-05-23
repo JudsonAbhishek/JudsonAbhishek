@@ -156,7 +156,7 @@ Flutter-based marketplace connecting users with local service professionals.
 <h3 align="center">🩺 Transformer-Based Medical Hallucination Detection and Correction System</h3>
 
 <p align="center">
-Transformer-based healthcare AI system using FLAN-T5 and Sentence-BERT to detect hallucinated medical claims in AI-generated responses and perform evidence-based correction using PubMed.
+Using FLAN-T5 and Sentence-BERT transformers to detect hallucinated medical claims in AI-generated responses and perform evidence-based corrections using PubMed and seven specialized personas.
 </p>
 
 <p align="center">

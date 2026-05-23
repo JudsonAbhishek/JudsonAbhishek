@@ -153,15 +153,17 @@ Flutter-based marketplace connecting users with local service professionals.
 
 <td width="50%">
 
-<h3 align="center">😊 Sentiment Analysis</h3>
+<h3 align="center">🩺 Transformer-Based Medical Hallucination Detection and Correction System</h3>
 
 <p align="center">
-Machine Learning based real-time sentiment analysis web application.
+Transformer-based healthcare AI system using FLAN-T5 and Sentence-BERT to detect hallucinated medical claims in AI-generated responses and perform evidence-based correction using PubMed.
 </p>
 
 <p align="center">
+<img src="https://img.shields.io/badge/AI-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/>
 <img src="https://img.shields.io/badge/NLP-0A66C2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square"/>
+<img src="https://img.shields.io/badge/PubMed%20API-34A853?style=flat-square"/>
 </p>
 
 </td>
@@ -211,10 +213,11 @@ Machine Learning based real-time sentiment analysis web application.
 
 <div align="center">
 
-✨ Flutter Development Opportunities  
+
 ✨ AI/ML & NLP Collaborations  
-✨ Full Stack Development Projects  
+✨ Full Stack Development Projects 
 ✨ Internship & Full-Time Roles  
+✨ Flutter Development Opportunities  
 
 </div>
 

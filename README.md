@@ -163,8 +163,6 @@ Machine Learning based real-time sentiment analysis web application.
 
 <h2 align="center">📈 GitHub Analytics</h2>
 
-<h2 align="center">📈 GitHub Analytics</h2>
-
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JudsonAbhishek&show_icons=true&theme=tokyonight&hide_border=true" />

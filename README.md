@@ -174,7 +174,7 @@ Machine Learning based real-time sentiment analysis web application.
 🏆 Mentored 100+ Students
 🧠 Solved 500+ DSA Problems
 ♟️ Two-Time Chess Competition Winner
-🎓 CGPA: 8.78
+🎓 CGPA: 8.84
 🚀 Built Multiple Real-World Projects
 ```
 

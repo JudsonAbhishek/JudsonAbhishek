@@ -32,6 +32,17 @@
 </div>
 
 <br>
+<h2 align="center">💫 About Me</h2>
+
+<div align="center">
+
+<img width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img width="250" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+<img width="250" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+
+</div>
+
+<br>
 
 ```yaml
 Name: Judson Abhishek Mupparapu

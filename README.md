@@ -200,10 +200,10 @@ Using FLAN-T5 and Sentence-BERT transformers to detect hallucinated medical clai
 
 <div align="center">
 
-✔ Data Analytics with Python — NPTEL
-✔ Business Analytics Text Mining using Python — NPTEL
-✔ Introduction to Web Development — edX  
-✔ Fundamentals of Artificial Intelligence — RINEX  
+• Data Analytics with Python — NPTEL<br>
+• Business Analytics Text Mining using Python — NPTEL<br>
+• Introduction to Web Development — edX<br>
+• Fundamentals of Artificial Intelligence — RINEX
 
 </div>
 
@@ -213,14 +213,15 @@ Using FLAN-T5 and Sentence-BERT transformers to detect hallucinated medical clai
 
 <div align="center">
 
-✨ AI/ML & NLP Collaborations  
-✨ Full Stack Development Projects 
-✨ Internship & Full-Time Roles  
-✨ Flutter Development Opportunities  
+• AI/ML & NLP Collaborations<br>
+• Full Stack Development Projects<br>
+• Internship & Full-Time Roles<br>
+• Flutter Development Opportunities
 
 </div>
 
 ---
+
 
 <div align="center">
 

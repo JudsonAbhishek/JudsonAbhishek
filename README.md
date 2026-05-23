@@ -154,25 +154,17 @@ Machine Learning based real-time sentiment analysis web application.
 
 <h2 align="center">📈 GitHub Analytics</h2>
 
+<h2 align="center">📈 GitHub Analytics</h2>
+
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JudsonAbhishek&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JudsonAbhishek&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JudsonAbhishek&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=JudsonAbhishek&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JudsonAbhishek&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<h2 align="center">🏆 Achievements</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JudsonAbhishek&theme=tokyonight&row=1&column=6"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JudsonAbhishek&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 

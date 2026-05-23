@@ -27,7 +27,7 @@
 ---
 <h2 align="center">💫 About Me</h2>
 
-<div align="center">
+<div align="right">
   <img alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
 

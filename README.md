@@ -177,13 +177,13 @@ Using FLAN-T5 and Sentence-BERT transformers to detect hallucinated medical clai
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JudsonAbhishek&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JudsonAbhishek&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" />
   
-  <img width="49%" src="https://streak-stats.demolab.com?user=JudsonAbhishek&theme=radical&hide_border=true" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=JudsonAbhishek&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JudsonAbhishek&layout=compact&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JudsonAbhishek&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
 </p>
 
 ```bash

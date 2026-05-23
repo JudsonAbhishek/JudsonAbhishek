@@ -1,147 +1,194 @@
-<h1 align="center">Hi 👋, I'm Judson Abhishek Mupparapu</h1>
+<div align="center">
 
-<h3 align="center">Flutter Developer • AI/ML Enthusiast • Full Stack Developer</h3>
+# Judson Abhishek Mupparapu
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;AI%2FML+Enthusiast;Full+Stack+Developer;NLP+Learner;500%2B+DSA+Problems+Solved" />
-</p>
+### Flutter • Full Stack • AI/ML • NLP
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;AI%2FML+Enthusiast;Full+Stack+Developer;500%2B+DSA+Problems+Solved;Building+Real+World+Applications" />
 
-# 🚀 About Me
+<br>
 
-🎓 B.Tech CSE Student with Minor in AI-ML at Vishnu Institute of Technology
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-judson-abhishek-5874782b5/)
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:judsonabhishek4@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JudsonAbhishek)
 
-💡 Passionate about Flutter Development, Firebase, NLP, and Full Stack Development
+<br>
 
-🧠 Solved 500+ DSA problems on LeetCode & GeeksforGeeks
+![](https://komarev.com/ghpvc/?username=JudsonAbhishek&style=for-the-badge&color=blue)
 
-👨‍🏫 Mentored 100+ students in Mathematics as Peer Tutoring Mentor
-
-♟️ Two-Time Chess Competition Winner & Chess Mentor
-
-📚 Interested in AI Systems, Machine Learning, and Real-World Problem Solving
-
-🌱 Currently learning advanced AI/ML and scalable application development
+</div>
 
 ---
 
-# 🛠️ Tech Stack
+# whoami
 
-## 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+```bash
+❯ judson --profile
 
----
-
-## 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
----
-
-## 📱 App Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+🎓 B.Tech CSE Student with AI-ML Minor
+🏫 Vishnu Institute of Technology
+💡 Flutter + Firebase + AI/ML Enthusiast
+🧠 Solved 500+ DSA Problems
+👨‍🏫 Mentored 100+ Students
+♟️ Chess Mentor & Two-Time Winner
+🚀 Passionate about building scalable applications
+```
 
 ---
 
-## 🤖 AI / ML
-![NLP](https://img.shields.io/badge/NLP-blue?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+# tech-stack --list-all
+
+```bash
+> Loading modules... ████████████████████ 100%
+
+── Languages ──
+
+Python SQL
+
+── Web Development ──
+
+HTML5 CSS3 Node.js Express.js
+
+── App Development ──
+
+Flutter Firebase
+
+── AI · ML · Data Science ──
+
+NLP Pandas NumPy scikit-learn Matplotlib
+
+── Tools ──
+
+Git GitHub VS Code Tableau
+```
 
 ---
 
-## 🗄️ Database & Tools
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+# projects --featured
+
+```bash
+[1/4] 🩸 Hemohelpers
+
+Blood donation portal with emergency announcement system
+and admin-user management platform.
+
+⚡ Stack:
+Node.js · Express.js · Firebase
+
+────────────────────────────────────────
+
+[2/4] 🍲 Spoonacular Recipe Search
+
+Recipe discovery platform using Spoonacular API
+with nutrition filtering and real-time recipe search.
+
+⚡ Stack:
+Node.js · Express.js · Firebase
+
+────────────────────────────────────────
+
+[3/4] 🛠️ Helperhive
+
+Flutter-based service marketplace connecting
+users and local professionals.
+
+⚡ Stack:
+Flutter · Firebase
+
+────────────────────────────────────────
+
+[4/4] 😊 Sentiment Analysis
+
+Web-based sentiment analysis prototype using
+Natural Language Processing and Machine Learning.
+
+⚡ Stack:
+NLP · Machine Learning
+```
 
 ---
 
-# 📌 Featured Projects
+# internships --experience
 
-## 🩸 Hemohelpers
-Blood donation portal with emergency broadcasting system and admin-user management.
+```bash
+[1/2] 🤖 Rinex Internship
 
-⚡ Tech Used: Node.js, Express.js, Firebase
+✔ Applied Machine Learning algorithms
+✔ Worked on real-world datasets
+✔ Improved model accuracy using evaluation techniques
 
----
+────────────────────────────────────────
 
-## 🍲 Spoonacular Recipe Search
-Recipe discovery platform using Spoonacular API with nutrition filtering and dynamic recipe search.
+[2/2] 📱 Android Developer Virtual Internship
 
-⚡ Tech Used: Node.js, Express.js, Firebase
-
----
-
-## 🛠️ Helperhive
-Flutter-based local service marketplace connecting users and workers.
-
-⚡ Tech Used: Flutter, Firebase
+✔ Built Android-based projects
+✔ Strengthened app development fundamentals
+✔ Hands-on practical implementation
+```
 
 ---
 
-## 😊 Sentiment Analysis
-Web-based real-time sentiment analysis system using NLP and Machine Learning.
+# achievements --all
 
-⚡ Tech Used: NLP, ML
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JudsonAbhishek&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JudsonAbhishek&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JudsonAbhishek&layout=compact&theme=tokyonight" />
-</p>
+```bash
+🏆  Peer Tutoring Mentor            → Mentored 100+ students
+♟️  Chess Competitions              → Two-Time Winner
+🧠  DSA Practice                    → 500+ Problems Solved
+🎓  CGPA                            → 8.78
+🚀  AI/ML Enthusiast                → Active Learner
+📱  Flutter Projects                → Multiple Real-World Apps
+```
 
 ---
 
-# 🏆 GitHub Trophies
+# certifications --verified
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=JudsonAbhishek&theme=onedark" />
-</p>
-
----
-
-# 📜 Certifications
-
-🏅 Data Analytics with Python
-
-🏅 Business Analytics Text Mining Modeling using Python
-
-🏅 Introduction to Web Development — edX
-
-🏅 Fundamentals of Artificial Intelligence — RINEX
+```bash
+✔ Data Analytics with Python
+✔ Business Analytics Text Mining using Python
+✔ Introduction to Web Development — edX
+✔ Fundamentals of Artificial Intelligence — RINEX
+```
 
 ---
 
-# 🌐 Connect With Me
+# github-stats --visualize
 
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:judsonabhishek4@gmail.com)
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/m-judson-abhishek-5874782b5/)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JudsonAbhishek&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JudsonAbhishek&layout=compact&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=JudsonAbhishek&theme=tokyonight" />
+
+</div>
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=JudsonAbhishek&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+# trophies --display
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=JudsonAbhishek&theme=onedark&row=1&column=6" />
+
+</div>
 
 ---
 
-<h3 align="center">✨ Code • Learn • Build • Repeat ✨</h3>
+# connect --open-to-work
+
+```bash
+✦ Open to Flutter Development opportunities
+✦ Interested in AI/ML and NLP projects
+✦ Looking to collaborate on impactful applications
+✦ Available for internships and full-time opportunities
+```
+
+---
+
+<div align="center">
+
+### ✨ Code • Learn • Build • Repeat ✨
+
+</div>

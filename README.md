@@ -27,7 +27,11 @@
 ---
 <h2 align="center">💫 About Me</h2>
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<div align="center">
+  <img alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</div>
+
+<br>
 
 ```yaml
 Name: Judson Abhishek Mupparapu
